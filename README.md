@@ -11,3 +11,7 @@
    ```bash
    .\run_queries.bat
    ```
+5. Удалите контейнер
+   ```bash
+   docker compose down -v
+   ```
